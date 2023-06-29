@@ -181,3 +181,6 @@ game.draw_controls() # displays the controls on the screen
 canvas.bind_all("<Key>", game.actions) # if any key is pressed, the actions function will be called to determine what to do, or if actually do anything at all
 
 root.mainloop() # mainloop for the entire window
+
+
+# 这段代码主要是坐标的变化有点难以理解，其他的都好说
